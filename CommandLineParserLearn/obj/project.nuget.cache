@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ix0a/nECnvzKsOJfcL+sbCxzJnEQfwqDN6wALblG8S1faOo0n+la5WRhrJWIjTJzeGWRSlM7v3iZrBxqZiAoJw==",
+  "dgSpecHash": "3KODhmWoC9mJctdz1gU2oiEP0CnHESbz2/1NHAwqRlM9s3J2RhTQbCl/auMrKbmSElg1Y4UDIQXrUZi+xn9CPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stupid_Guy\\Documents\\GitHub\\CommandLineParserLearn\\CommandLineParserLearn\\CommandLineParserLearn.csproj",
+  "projectFilePath": "/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/CommandLineParserLearn.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Stupid_Guy\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512"
+    "/Users/macos/.nuget/packages/commandlineparser/2.8.0/commandlineparser.2.8.0.nupkg.sha512"
   ],
   "logs": []
 }

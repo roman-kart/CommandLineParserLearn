@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A635678D-3C91-4C13-8254-6C483232F156}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OptionsDocs.cs">
+    <Files>
+      <File FileName="Program.cs" Line="5" Column="22" />
+      <File FileName="OptionGetStarted.cs" Line="12" Column="2" />
+      <File FileName="OptionsDocs.cs" Line="2" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CommandLineParserLearn" expanded="True">
+            <Node name="CommandLineParserLearn" expanded="True">
+              <Node name="OptionsDocs.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CommandLineParserLearn PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/obj/Debug/net6.0/CommandLineParserLearn.csproj.AssemblyReference.cache
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/obj/Debug/net6.0/CommandLineParserLearn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/obj/Debug/net6.0/CommandLineParserLearn.AssemblyInfoInputs.cache
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/obj/Debug/net6.0/CommandLineParserLearn.AssemblyInfo.cs
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/obj/Debug/net6.0/CommandLineParserLearn.csproj.CoreCompileInputs.cache
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/bin/Debug/net6.0/CommandLineParserLearn
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/bin/Debug/net6.0/CommandLineParserLearn.deps.json
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/bin/Debug/net6.0/CommandLineParserLearn.runtimeconfig.json
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/bin/Debug/net6.0/CommandLineParserLearn.dll
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/bin/Debug/net6.0/ref/CommandLineParserLearn.dll
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/bin/Debug/net6.0/CommandLineParserLearn.pdb
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/bin/Debug/net6.0/CommandLine.dll
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/obj/Debug/net6.0/CommandLineParserLearn.csproj.CopyComplete
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/obj/Debug/net6.0/CommandLineParserLearn.dll
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/obj/Debug/net6.0/ref/CommandLineParserLearn.dll
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/obj/Debug/net6.0/CommandLineParserLearn.pdb
+/Users/macos/Projects/CommandLineParserLearn/CommandLineParserLearn/obj/Debug/net6.0/CommandLineParserLearn.genruntimeconfig.cache
