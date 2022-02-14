@@ -11,4 +11,10 @@
     <PackageReference Include="CommandLineParser" Version="2.8.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="PreviousMain\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PreviousMain\" />
+  </ItemGroup>
 </Project>

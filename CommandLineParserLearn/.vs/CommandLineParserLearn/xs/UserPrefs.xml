@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{A635678D-3C91-4C13-8254-6C483232F156}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OptionsAttributes.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OptionsCLGrammar.cs">
     <Files>
       <File FileName="Program.cs" Line="8" Column="1" />
-      <File FileName="OptionsAttributes.cs" Line="10" Column="6" />
-      <File FileName="OptionsCLGrammar.cs" Line="1" Column="1" />
+      <File FileName="OptionsAttributes.cs" Line="21" Column="29" />
+      <File FileName="OptionsCLGrammar.cs" Line="11" Column="31" />
+      <File FileName="PreviousMain/AttributesTrafficLights.cs" Line="10" Column="14" />
+      <File FileName="OptionGetStarted.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CommandLineParserLearn" expanded="True">
             <Node name="CommandLineParserLearn" expanded="True">
-              <Node name="OptionsAttributes.cs" selected="True" />
+              <Node name="PreviousMain" expanded="True" />
+              <Node name="OptionsCLGrammar.cs" selected="True" />
             </Node>
           </Node>
         </State>
