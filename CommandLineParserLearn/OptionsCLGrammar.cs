@@ -4,7 +4,7 @@ using CommandLine;
 
 namespace CommandLineParserLearn
 {
-    public class OptionsDocs
+    public class OptionsCLGrammar
     {
         [Option('r', "reverse", Default = false)]
         public bool Reverse { get; set; }
